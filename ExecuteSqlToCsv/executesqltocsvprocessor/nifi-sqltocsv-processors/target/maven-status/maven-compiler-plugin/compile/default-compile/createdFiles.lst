@@ -1,0 +1,4 @@
+com/wdpr/customnifiprocessor/processors/sqltocsv/MyProcessor.class
+com/wdpr/customnifiprocessor/processors/sqltocsv/ExecuteSqlToCsv.class
+com/wdpr/customnifiprocessor/processors/sqltocsv/ExecuteSqlToCsv$2.class
+com/wdpr/customnifiprocessor/processors/sqltocsv/ExecuteSqlToCsv$1.class

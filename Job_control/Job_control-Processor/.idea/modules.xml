@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Job_control-Processor.iml" filepath="$PROJECT_DIR$/Job_control-Processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-GetBatchId-nar/nifi-GetBatchId-nar.iml" filepath="$PROJECT_DIR$/nifi-GetBatchId-nar/nifi-GetBatchId-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-GetBatchId-processors/nifi-GetBatchId-processors.iml" filepath="$PROJECT_DIR$/nifi-GetBatchId-processors/nifi-GetBatchId-processors.iml" />
+    </modules>
+  </component>
+</project>

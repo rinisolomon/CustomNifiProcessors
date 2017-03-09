@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/executesqltocsvprocessor.iml" filepath="$PROJECT_DIR$/executesqltocsvprocessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-sqltocsv-nar/nifi-sqltocsv-nar.iml" filepath="$PROJECT_DIR$/nifi-sqltocsv-nar/nifi-sqltocsv-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-sqltocsv-processors/nifi-sqltocsv-processors.iml" filepath="$PROJECT_DIR$/nifi-sqltocsv-processors/nifi-sqltocsv-processors.iml" />
+    </modules>
+  </component>
+</project>

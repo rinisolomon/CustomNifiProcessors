@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/executebteq.iml" filepath="$PROJECT_DIR$/executebteq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-executebteq-nar/nifi-executebteq-nar.iml" filepath="$PROJECT_DIR$/nifi-executebteq-nar/nifi-executebteq-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-executebteq-processors/nifi-executebteq-processors.iml" filepath="$PROJECT_DIR$/nifi-executebteq-processors/nifi-executebteq-processors.iml" />
+    </modules>
+  </component>
+</project>
